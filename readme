@@ -1,0 +1,9 @@
+run code 
+ do npm install 
+ then 
+node server.js  validation withoud using any module 
+
+nodejs app_joi  validation using joi module
+
+
+In body request send two parameter a and b 
